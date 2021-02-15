@@ -1,0 +1,11 @@
+.row.header
+{
+	background-color: #004BCF;
+}
+.container{
+  min-width: 90em;
+}
+.card-img-nba
+{
+	height: 24em;
+}
